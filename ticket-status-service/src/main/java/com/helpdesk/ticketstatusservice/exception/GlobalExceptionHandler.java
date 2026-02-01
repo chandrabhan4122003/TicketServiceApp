@@ -1,6 +1,5 @@
 package com.helpdesk.ticketstatusservice.exception;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
